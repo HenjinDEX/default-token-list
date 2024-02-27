@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Wrapped Ether",
+        "address": "0x003eaAf23aa5fe907F32F7c415a2075b5f1629a2",
+        "symbol": "WETH",
+        "decimals": 18,
+        "chainId": 167008,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    },
+    {
+        "name": "USD Coin",
+        "address": "0x02918746Ac36808CC471f50Abf4f92f731D10A86",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 167008,
+        "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png"
+    },
+    {
+        "name": "Wrapped BTC",
+        "address": "0x03A6395E2787205aA8216a50E10051A564f1C585",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "chainId": 167008,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    }
+]
