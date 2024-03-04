@@ -1,9 +1,9 @@
 {
     "name": "Henjin Default",
-    "timestamp": "2024-02-27T00:31:11.077Z",
+    "timestamp": "2024-03-04T16:30:27.089Z",
     "version": {
       "major": 0,
-      "minor": 1,
+      "minor": 2,
       "patch": 0
     },
     "tags": {},
@@ -11,28 +11,68 @@
     "keywords": ["henjin", "default"],
     "tokens": [
         {
+            "chainId": 167008,
+            "symbol": "WETH",
             "name": "Wrapped Ether",
             "address": "0x003eaAf23aa5fe907F32F7c415a2075b5f1629a2",
-            "symbol": "WETH",
             "decimals": 18,
-            "chainId": 167008,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
         },
         {
-            "name": "USD Coin",
-            "address": "0x02918746Ac36808CC471f50Abf4f92f731D10A86",
-            "symbol": "USDC",
-            "decimals": 6,
             "chainId": 167008,
+            "symbol": "USDC",
+            "name": "USD Coin",
+            "address": "0x9ceDA8E21df31FAe5975709572AC358E6C828cC5",
+            "decimals": 6,
             "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png"
         },
         {
-            "name": "Wrapped BTC",
-            "address": "0x03A6395E2787205aA8216a50E10051A564f1C585",
-            "symbol": "WBTC",
-            "decimals": 8,
             "chainId": 167008,
+            "symbol": "USDT",
+            "name": "Tether USD",
+            "address": "0xeCE5219E7021939f8f218fe0B38016920CB15A37",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        {
+            "chainId": 167008,
+            "symbol": "WBTC",
+            "name": "Wrapped BTC",
+            "address": "0xf4cdCf9f2320ECb15c405d9f885124DBE205BCF1",
+            "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+        },
+        {
+            "chainId": 167008,
+            "symbol": "Henj",
+            "name": "Henjin",
+            "address": "0x32644Fbb06d04a7F338fD20e2CA48AF1B9638763",
+            "decimals": 18,
+            "logoURI": "https://henjin.xyz/resources/images/logo.svg"
+        },
+        {
+            "chainId": 167008,
+            "symbol": "xHenj",
+            "name": "Escrowed Henjin",
+            "address": "0xcB52A9EC8E0EF30B9dF545ea95960E5611939Aaf",
+            "decimals": 18,
+            "logoURI": "https://henjin.xyz/resources/images/logo.svg"
+        },
+        {
+            "chainId": 167008,
+            "symbol": "CAT",
+            "name": "Cat Token",
+            "address": "0x63f87834e1F002b4Deb47A6C00e461Bd6A3Ddb6c",
+            "decimals": 18,
+            "logoURI": "https://cryptologos.cc/logos/catcoin-token-cats-logo.png"
+        },
+        {
+            "chainId": 167008,
+            "symbol": "DOG",
+            "name": "Dog Token",
+            "address": "0xD285aa3bdE6bc6b24de8eCA03Fddf715CAE59adA",
+            "decimals": 18,
+            "logoURI": "https://cryptologos.cc/logos/dogecoin-doge-logo.png"
         }
     ]
 }
