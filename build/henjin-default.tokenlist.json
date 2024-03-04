@@ -4,7 +4,7 @@
     "version": {
       "major": 0,
       "minor": 2,
-      "patch": 0
+      "patch": 1
     },
     "tags": {},
     "logoURI": "https://henjin.xyz/resources/images/logo.svg",
@@ -14,7 +14,7 @@
             "chainId": 167008,
             "symbol": "WETH",
             "name": "Wrapped Ether",
-            "address": "0x003eaAf23aa5fe907F32F7c415a2075b5f1629a2",
+            "address": "0xa821D8Ba0691bDC9347CBA6Ff088F91AB58Ba879",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
         },
