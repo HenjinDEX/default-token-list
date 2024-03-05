@@ -1,6 +1,8 @@
 [
     {
         "chainId": 167008,
+        "common": true,
+        "routing": true,
         "symbol": "WETH",
         "name": "Wrapped Ether",
         "address": "0xa821D8Ba0691bDC9347CBA6Ff088F91AB58Ba879",
@@ -9,6 +11,8 @@
     },
     {
         "chainId": 167008,
+        "common": true,
+        "routing": true,
         "symbol": "USDC",
         "name": "USD Coin",
         "address": "0x9ceDA8E21df31FAe5975709572AC358E6C828cC5",
@@ -17,6 +21,8 @@
     },
     {
         "chainId": 167008,
+        "common": true,
+        "routing": true,
         "symbol": "USDT",
         "name": "Tether USD",
         "address": "0xeCE5219E7021939f8f218fe0B38016920CB15A37",
@@ -25,6 +31,8 @@
     },
     {
         "chainId": 167008,
+        "common": true,
+        "routing": true,
         "symbol": "WBTC",
         "name": "Wrapped BTC",
         "address": "0xf4cdCf9f2320ECb15c405d9f885124DBE205BCF1",
@@ -33,6 +41,8 @@
     },
     {
         "chainId": 167008,
+        "common": true,
+        "routing": true,
         "symbol": "Henj",
         "name": "Henjin",
         "address": "0x32644Fbb06d04a7F338fD20e2CA48AF1B9638763",
@@ -41,6 +51,8 @@
     },
     {
         "chainId": 167008,
+        "common": true,
+        "routing": true,
         "symbol": "xHenj",
         "name": "Escrowed Henjin",
         "address": "0xcB52A9EC8E0EF30B9dF545ea95960E5611939Aaf",
@@ -49,6 +61,8 @@
     },
     {
         "chainId": 167008,
+        "common": true,
+        "routing": true,
         "symbol": "CAT",
         "name": "Cat Token",
         "address": "0x63f87834e1F002b4Deb47A6C00e461Bd6A3Ddb6c",
@@ -57,6 +71,8 @@
     },
     {
         "chainId": 167008,
+        "common": true,
+        "routing": true,
         "symbol": "DOG",
         "name": "Dog Token",
         "address": "0xD285aa3bdE6bc6b24de8eCA03Fddf715CAE59adA",
