@@ -4,7 +4,7 @@
     "version": {
       "major": 0,
       "minor": 2,
-      "patch": 2
+      "patch": 3
     },
     "tags": {},
     "logoURI": "https://henjin.xyz/resources/images/logo.svg",
@@ -58,7 +58,7 @@
             "name": "Henjin",
             "address": "0x32644Fbb06d04a7F338fD20e2CA48AF1B9638763",
             "decimals": 18,
-            "logoURI": "https://henjin.xyz/resources/images/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/HenjinDEX/default-token-list/main/src/assets/henj-logo.svg"
         },
         {
             "chainId": 167008,
@@ -68,7 +68,7 @@
             "name": "Escrowed Henjin",
             "address": "0xcB52A9EC8E0EF30B9dF545ea95960E5611939Aaf",
             "decimals": 18,
-            "logoURI": "https://henjin.xyz/resources/images/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/HenjinDEX/default-token-list/main/src/assets/xhenj-logo.svg"
         },
         {
             "chainId": 167008,
