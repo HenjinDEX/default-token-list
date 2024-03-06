@@ -53,16 +53,6 @@
         "chainId": 167008,
         "common": true,
         "routing": true,
-        "symbol": "xHenj",
-        "name": "Escrowed Henjin",
-        "address": "0xcB52A9EC8E0EF30B9dF545ea95960E5611939Aaf",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/HenjinDEX/default-token-list/main/src/assets/xhenj-logo.svg"
-    },
-    {
-        "chainId": 167008,
-        "common": true,
-        "routing": true,
         "symbol": "CAT",
         "name": "Cat Token",
         "address": "0x63f87834e1F002b4Deb47A6C00e461Bd6A3Ddb6c",
