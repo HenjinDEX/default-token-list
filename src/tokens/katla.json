@@ -5,7 +5,7 @@
         "routing": true,
         "symbol": "WETH",
         "name": "Wrapped Ether",
-        "address": "0x8e848FB7E37e938Ce7378FD14CE248C2B1819eB2",
+        "address": "0xdf10160eC9554a6E89E13342186Dd69735F523E2",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
@@ -15,7 +15,7 @@
         "routing": true,
         "symbol": "USDC",
         "name": "USD Coin",
-        "address": "0x631784FF7739334508E173908efd7C15a169a433",
+        "address": "0x367F1F510036fD3feccBfa5eBD162e9dD244E5E8",
         "decimals": 6,
         "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png"
     },
@@ -25,7 +25,7 @@
         "routing": true,
         "symbol": "USDT",
         "name": "Tether USD",
-        "address": "0x9034DA799725E95A5eA33181Cd046aa588680775",
+        "address": "0x80C459d9b36Acb9176C03577d9706E18d40cd193",
         "decimals": 6,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
@@ -35,7 +35,7 @@
         "routing": true,
         "symbol": "WBTC",
         "name": "Wrapped BTC",
-        "address": "0x0f5A7Fd9BFc07deBD32dBd2b55CE0b9C96aC7050",
+        "address": "0x55C9FDc6dd65cbb9793B7b3327ec0723e778598E",
         "decimals": 8,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
     },
@@ -45,7 +45,7 @@
         "routing": true,
         "symbol": "Henj",
         "name": "Henjin",
-        "address": "0x5115D980aC0B589ab00E74f437271f264ef0F0aA",
+        "address": "0xd50Bfb3261C4F8589ac3B1FD76041068333bc500",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/HenjinDEX/default-token-list/main/src/assets/henj-logo.svg"
     },
@@ -55,7 +55,7 @@
         "routing": true,
         "symbol": "CAT",
         "name": "Cat Token",
-        "address": "0xd9071EeC25357253eaDDF3F9aE0A422afFe849C1",
+        "address": "0x837823084F3403cF485016B8507eE4249dba2AbC",
         "decimals": 18,
         "logoURI": "https://cryptologos.cc/logos/catcoin-token-cats-logo.png"
     },
@@ -65,7 +65,7 @@
         "routing": true,
         "symbol": "DOG",
         "name": "Dog Token",
-        "address": "0xD874Ccc0402074064762a052f39194d02E57ba3E",
+        "address": "0x5288fF7D632A85bcC0f214E6c49f3C2E863CFeC6",
         "decimals": 18,
         "logoURI": "https://cryptologos.cc/logos/dogecoin-doge-logo.png"
     }
