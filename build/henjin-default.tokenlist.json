@@ -54,16 +54,6 @@
             "chainId": 167009,
             "common": true,
             "routing": true,
-            "symbol": "Henj",
-            "name": "Henjin",
-            "address": "0x3B3B4179De276e5E9B2A377805B26C3c77C0B01f",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/HenjinDEX/default-token-list/main/src/assets/henj-logo.svg"
-        },
-        {
-            "chainId": 167009,
-            "common": true,
-            "routing": true,
             "symbol": "CAT",
             "name": "Cat Token",
             "address": "0x928e96F2ACddACC09085931CA70F7FeEf47fEe3b",
