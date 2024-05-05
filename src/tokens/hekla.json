@@ -1,71 +1,71 @@
 [
     {
-        "chainId": 167008,
+        "chainId": 167009,
         "common": true,
         "routing": true,
         "symbol": "WETH",
         "name": "Wrapped Ether",
-        "address": "0xdf10160eC9554a6E89E13342186Dd69735F523E2",
+        "address": "0x4539fb30977a7de928631f16c45354ba6fdbb9bf",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
-        "chainId": 167008,
+        "chainId": 167009,
         "common": true,
         "routing": true,
         "symbol": "USDC",
         "name": "USD Coin",
-        "address": "0x367F1F510036fD3feccBfa5eBD162e9dD244E5E8",
+        "address": "0x5afcbf3f53eaa3a31c972a058a87e4182b746f44",
         "decimals": 6,
         "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png"
     },
     {
-        "chainId": 167008,
+        "chainId": 167009,
         "common": true,
         "routing": true,
         "symbol": "USDT",
         "name": "Tether USD",
-        "address": "0x80C459d9b36Acb9176C03577d9706E18d40cd193",
+        "address": "0x5288fF7D632A85bcC0f214E6c49f3C2E863CFeC6",
         "decimals": 6,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
     {
-        "chainId": 167008,
+        "chainId": 167009,
         "common": true,
         "routing": true,
         "symbol": "WBTC",
         "name": "Wrapped BTC",
-        "address": "0x55C9FDc6dd65cbb9793B7b3327ec0723e778598E",
+        "address": "0x367F1F510036fD3feccBfa5eBD162e9dD244E5E8",
         "decimals": 8,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
     },
     {
-        "chainId": 167008,
+        "chainId": 167009,
         "common": true,
         "routing": true,
         "symbol": "Henj",
         "name": "Henjin",
-        "address": "0xd50Bfb3261C4F8589ac3B1FD76041068333bc500",
+        "address": "0x3B3B4179De276e5E9B2A377805B26C3c77C0B01f",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/HenjinDEX/default-token-list/main/src/assets/henj-logo.svg"
     },
     {
-        "chainId": 167008,
+        "chainId": 167009,
         "common": true,
         "routing": true,
         "symbol": "CAT",
         "name": "Cat Token",
-        "address": "0x837823084F3403cF485016B8507eE4249dba2AbC",
+        "address": "0x928e96F2ACddACC09085931CA70F7FeEf47fEe3b",
         "decimals": 18,
         "logoURI": "https://cryptologos.cc/logos/catcoin-token-cats-logo.png"
     },
     {
-        "chainId": 167008,
+        "chainId": 167009,
         "common": true,
         "routing": true,
         "symbol": "DOG",
         "name": "Dog Token",
-        "address": "0x5288fF7D632A85bcC0f214E6c49f3C2E863CFeC6",
+        "address": "0x837823084F3403cF485016B8507eE4249dba2AbC",
         "decimals": 18,
         "logoURI": "https://cryptologos.cc/logos/dogecoin-doge-logo.png"
     }
