@@ -1,9 +1,9 @@
 {
     "name": "Henjin Default",
-    "timestamp": "2024-03-10T16:30:27.089Z",
+    "timestamp": "2024-05-05T16:30:27.089Z",
     "version": {
       "major": 0,
-      "minor": 4,
+      "minor": 5,
       "patch": 0
     },
     "tags": {},
@@ -69,6 +69,16 @@
             "address": "0x837823084F3403cF485016B8507eE4249dba2AbC",
             "decimals": 18,
             "logoURI": "https://cryptologos.cc/logos/dogecoin-doge-logo.png"
+        },
+        {
+            "chainId": 167009,
+            "common": true,
+            "routing": true,
+            "symbol": "HORSE",
+            "name": "Horse Token",
+            "address": "0x2029Ca1e4A5954781a271d6Fa3598bF4434969f5",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/HenjinDEX/default-token-list/main/src/assets/horse-logo.svg"
         }
     ]
 }
