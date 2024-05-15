@@ -78,5 +78,15 @@
         "address": "0x2029Ca1e4A5954781a271d6Fa3598bF4434969f5",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/HenjinDEX/default-token-list/main/src/assets/horse-logo.svg"
+    },
+    {
+        "chainId": 167009,
+        "common": true,
+        "routing": true,
+        "symbol": "wsxETH",
+        "name": "Wrapped sxETH",
+        "address": "0x5acd50c83ab74c35f3f9240299ecb03a326b2328",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/HenjinDEX/default-token-list/main/src/assets/wsxeth.png"
     }
 ]
