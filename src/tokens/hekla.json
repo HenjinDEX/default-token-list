@@ -1,8 +1,6 @@
 [
     {
         "chainId": 167009,
-        "common": true,
-        "routing": true,
         "symbol": "WETH",
         "name": "Wrapped Ether",
         "address": "0x4539fb30977a7de928631f16c45354ba6fdbb9bf",
@@ -11,8 +9,6 @@
     },
     {
         "chainId": 167009,
-        "common": true,
-        "routing": true,
         "symbol": "USDC",
         "name": "USD Coin",
         "address": "0x5afcbf3f53eaa3a31c972a058a87e4182b746f44",
@@ -21,8 +17,6 @@
     },
     {
         "chainId": 167009,
-        "common": true,
-        "routing": true,
         "symbol": "USDT",
         "name": "Tether USD",
         "address": "0x5288fF7D632A85bcC0f214E6c49f3C2E863CFeC6",
@@ -31,8 +25,6 @@
     },
     {
         "chainId": 167009,
-        "common": true,
-        "routing": true,
         "symbol": "WBTC",
         "name": "Wrapped BTC",
         "address": "0x367F1F510036fD3feccBfa5eBD162e9dD244E5E8",
@@ -41,8 +33,6 @@
     },
     {
         "chainId": 167009,
-        "common": true,
-        "routing": true,
         "symbol": "Henj",
         "name": "Henjin",
         "address": "0x3B3B4179De276e5E9B2A377805B26C3c77C0B01f",
@@ -51,8 +41,6 @@
     },
     {
         "chainId": 167009,
-        "common": true,
-        "routing": true,
         "symbol": "CAT",
         "name": "Cat Token",
         "address": "0x928e96F2ACddACC09085931CA70F7FeEf47fEe3b",
@@ -61,8 +49,6 @@
     },
     {
         "chainId": 167009,
-        "common": true,
-        "routing": true,
         "symbol": "DOG",
         "name": "Dog Token",
         "address": "0x837823084F3403cF485016B8507eE4249dba2AbC",
@@ -71,8 +57,6 @@
     },
     {
         "chainId": 167009,
-        "common": true,
-        "routing": true,
         "symbol": "HORSE",
         "name": "Horse Token",
         "address": "0x2029Ca1e4A5954781a271d6Fa3598bF4434969f5",
@@ -81,8 +65,6 @@
     },
     {
         "chainId": 167009,
-        "common": true,
-        "routing": true,
         "symbol": "wsxETH",
         "name": "Wrapped sxETH",
         "address": "0x5acd50c83ab74c35f3f9240299ecb03a326b2328",
