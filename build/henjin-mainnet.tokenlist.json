@@ -28,7 +28,7 @@
         },
         {
             "chainId": 167000,
-            "symbol": "TKO",
+            "symbol": "TAIKO",
             "name": "Taiko Token",
             "address": "0xA9d23408b9bA935c230493c40C73824Df71A0975",
             "decimals": 18,
